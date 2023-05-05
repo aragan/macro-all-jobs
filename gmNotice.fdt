@@ -1,0 +1,6 @@
+DEF DATASET 2003011701
+DEF SELECTNODE 0
+LABEL "NOTICE"
+HEADER "Hello, Aragan, and thank you for your GM call. We understand that you are experiencing difficulty with in-game content and we apologize for any inconvenience this may have caused. Based upon your description of the issue, we advise speaking with other players both in game and by visiting our official forums at https://forum.square-enix.com/ffxi. You may also access our Knowledge Base by selecting FINAL FANTASY XI from https://support.na.square-enix.com.\n\nThank you for your patience, and best wishes to you.\nFINAL FANTASY XI Game Master Team"
+END NODE
+END DATASET
